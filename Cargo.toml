@@ -7,7 +7,6 @@ description = "Dynamic border color based on visuals in Hyprland using hyprctl"
 repository = "https://github.com/StaringLongingly/hyprland-dynamic-border"
 keywords = ["hyprland, dynamic, border"] 
 license = "MIT"
-license-file = "LICENSE"
 
 [dependencies]
 colored = "3.0.0"
